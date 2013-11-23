@@ -1,3 +1,3 @@
-FooCoin (FOO)
+KevCoin (BAR)
 
 Blah, blah, blah.
